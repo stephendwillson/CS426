@@ -1,0 +1,20 @@
+1 run exe				steve	-
+2 environment var		steve   -
+2 redirection			zac     -
+2 piping				zac     -
+2 expanding env			steve   -
+1 cd					steve	-
+1 keyboard interrupt	steve	-
+2 change prompt			zac     -
+2 commands from file	zac     -
+2 tabs/arrow			steve   -
+2 !#					zac     -
+1 replace ~				zac     -
+1 queue		            steve   -
+3 bg					steve   -
+1 pipe/redirect combo	zac     -
+2 glob                  steve   -
+27 total
+
+- : completed
+x : currently being worked on

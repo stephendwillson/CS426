@@ -1,0 +1,7 @@
+ls
+ls -l
+ls > file.txt
+wc < file.txt
+ls | wc
+cd ..
+cd CS426
